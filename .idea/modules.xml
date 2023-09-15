@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProdutorConsumidorMonitores/ProdutorConsumidorMonitores.iml" filepath="$PROJECT_DIR$/ProdutorConsumidorMonitores/ProdutorConsumidorMonitores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto1-ThreadWord/Projeto1-ThreadWord.iml" filepath="$PROJECT_DIR$/Projeto1-ThreadWord/Projeto1-ThreadWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SistemasDistribuidos.iml" filepath="$PROJECT_DIR$/.idea/SistemasDistribuidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sockets/src/Sockets.iml" filepath="$PROJECT_DIR$/Sockets/src/Sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sockets/Sockets1.iml" filepath="$PROJECT_DIR$/Sockets/Sockets1.iml" />
+    </modules>
+  </component>
+</project>
